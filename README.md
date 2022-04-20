@@ -11,6 +11,6 @@ After dedicating 3 years to Bachelors in Commerce and a few months in Marketing,
 - ⚡ Fun fact: Madly in love with Business and Sports Trivia 
 
 
-[<img src="https://img.icons8.com/color-glass/96/000000/github.png" height='50'/>](https://github.com/kadianAnirudh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anirudh-kadian-235929233/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AnirudhKadian4)  
+[<img src="https://img.icons8.com/color-glass/96/000000/github.png" height='60'/>](https://github.com/kadianAnirudh)  [<img src="https://img.icons8.com/color/96/000000/linkedin.png" alt='linkedin' height='60'/>](https://www.linkedin.com/in/anirudh-kadian-235929233/)  [<img src="https://img.icons8.com/color/96/000000/twitter--v1.png" alt='twitter' height='60'/>](https://twitter.com/AnirudhKadian4)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kadianAnirudh&show_icons=true)  
