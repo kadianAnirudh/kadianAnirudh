@@ -5,9 +5,9 @@ After dedicating 3 years to Bachelors in Commerce and a few months in Marketing,
 ![50 Day challenge](https://user-images.githubusercontent.com/98485187/164294093-5a08c31f-3a5d-4b8b-b3cc-ffcabe58d35f.png)
 
 
-- 🌱 I’m currently learning React JS and Web Backend 
+- 🌱 I’m currently learning React JS and Backend 
 - 👯 I’m looking to collaborate on React based projects  
-- 📫 How to reach me: Most active on LinkedIn  
+- 📫 How to reach me: Mostly active on LinkedIn  
 - ⚡ Fun fact: Madly in love with Business and Sports Trivia 
 
 
