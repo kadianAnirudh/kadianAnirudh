@@ -11,6 +11,7 @@ After dedicating 3 years to Bachelors in Commerce and a few months in Marketing,
 - ⚡ Fun fact: Madly in love with Business and Sports Trivia 
 
 
-[<img src="https://img.icons8.com/color-glass/96/000000/github.png" height='60'/>](https://github.com/kadianAnirudh)  [<img src="https://img.icons8.com/color/96/000000/linkedin.png" alt='linkedin' height='60'/>](https://www.linkedin.com/in/anirudh-kadian-235929233/)  [<img src="https://img.icons8.com/color/96/000000/twitter--v1.png" alt='twitter' height='60'/>](https://twitter.com/AnirudhKadian4) [<img src="https://img.icons8.com/stickers/100/000000/medium-logo.png" alt='medium' height='60'/>](https://medium.com/@coderanirudh)    
+[<img src="https://user-images.githubusercontent.com/98485187/176848012-0a5b5189-4010-4c07-b07b-18fd0485b78c.png" height='60'/>](https://github.com/kadianAnirudh)  [<img src="https://img.icons8.com/color/96/000000/linkedin.png" alt='linkedin' height='60'/>](https://www.linkedin.com/in/anirudh-kadian-235929233/)  [<img src="https://img.icons8.com/color/96/000000/twitter--v1.png" alt='twitter' height='60'/>](https://twitter.com/AnirudhKadian4) [<img src="https://img.icons8.com/stickers/100/000000/medium-logo.png" alt='medium' height='60'/>](https://medium.com/@coderanirudh)    
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kadianAnirudh&show_icons=true)  
+
