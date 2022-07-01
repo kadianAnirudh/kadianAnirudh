@@ -5,7 +5,7 @@ After dedicating 3 years to Bachelors in Commerce and a few months in Marketing,
 <!-- ![50 Day challenge][(https://user-images.githubusercontent.com/98485187/164294093-5a08c31f-3a5d-4b8b-b3cc-ffcabe58d35f.png](https://user-images.githubusercontent.com/98485187/176848012-0a5b5189-4010-4c07-b07b-18fd0485b78c.png)] -->
 
 
-[<img src="https://user-images.githubusercontent.com/98485187/164294093-5a08c31f-3a5d-4b8b-b3cc-ffcabe58d35f.png"/>]
+<img src="[https://user-images.githubusercontent.com/98485187/164294093-5a08c31f-3a5d-4b8b-b3cc-ffcabe58d35f.png](https://user-images.githubusercontent.com/98485187/164294093-5a08c31f-3a5d-4b8b-b3cc-ffcabe58d35f.png)"/>
 
 - 🌱 I’m currently learning React JS and Backend 
 - 👯 I’m looking to collaborate on React based projects  
