@@ -6,7 +6,7 @@ If you like my work, check out my portfolio website and do reach out to me, I lo
 
 You can contact me for work, guidance ( only for absolute beginners ) or for everyday conversations. 
 
-⭐Check out my portfolio website: https://meek-lily-ff9ef7.netlify.app/
+⭐Check out my portfolio website: https://lively-mermaid-75487c.netlify.app/
 
 ⭐Check out my LinkedIn: https://www.linkedin.com/in/anirudh-kadian-235929233/
 
