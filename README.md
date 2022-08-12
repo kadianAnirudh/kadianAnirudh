@@ -12,7 +12,7 @@ You can contact me for work, guidance ( only for absolute beginners ) or for eve
 
 ⭐Check out my Github: https://github.com/kadianAnirudh
 
-⭐Check out my YouTube: https://www.youtube.com/channel/UC3wTwYWwE-pEe7rDJY8Totg
+⭐Check out my YouTube: https://www.youtube.com/channel/UCk7BTLIj8q36GX1mE_rIQJA/videos
 
 ⭐My awesome projects - 
 
