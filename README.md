@@ -1,25 +1,15 @@
-Hello everyone, my name is Anirudh Kadian, I am a self-taught full stack developer looking for a Junior web developer position at remote startups. I have been learning web development for the past 9 months and have become well versed with Javascript and React in particular.
- 
-If you like my work, check out my portfolio website and do reach out to me, I love connecting and talking to people, if you have any work for me, I would be more than pleased to get on a call with you!
+Over the last year, I’ve transformed from a no-code Shopify developer to a full-stack developer, focusing on building businesses from scratch.
 
- I have built 6 awesome projects which you can find down below. 4 of these projects are hosted on Netlify for you to check out and 5 of them have video demos recorded on a youtube channel.
+I aim to inspire others by solving problems with my code, building valuable stuff on the Internet and creating content while documenting my journey and learnings. 
 
-You can contact me for work, guidance ( only for absolute beginners ) or for everyday conversations. 
+I have expertise in creating React-based applications, growth hacking, and experimentation to build and scale things. 
 
-⭐Check out my portfolio website: <a href="https://lively-mermaid-75487c.netlify.app/"> anirudhkadian.com </a> 
+Keeping up with the changes in the market from AI tools to no-code tools. I can research the market, understand what is required and help to build and sell it. 
 
-⭐Check out my LinkedIn: https://www.linkedin.com/in/anirudh-kadian-235929233/
+→ Author of "The Ultimate Job Seeker's Handbook," a 97-page eBook providing job seekers with tools and strategies for finding their dream job.
 
-⭐Check out my Github: https://github.com/kadianAnirudh
+I'm open to working as a JS / React based Full stack / Frontend engineer /developer at the moment 
 
-⭐Check out my YouTube: https://www.youtube.com/channel/UCk7BTLIj8q36GX1mE_rIQJA/videos
+If you want to work together or hire me to help you build and scale
 
-⭐My awesome projects - 
-
-Memories web App: https://tubular-sorbet-3779ff.netlify.app/
-
-React Dashboard: https://loquacious-gumdrop-ea107f.netlify.app/
-
-Monday CRM Clone:  https://harmonious-sunflower-387a76.netlify.app/
-
-
+→ MAIL ME @ manageanirudh@gmail.com
